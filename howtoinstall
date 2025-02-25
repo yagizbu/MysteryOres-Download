@@ -1,0 +1,19 @@
+<a href="install-guide.html" class="install-button">How to Install Mod</a>
+
+<style>
+.install-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    background-color: #4CAF50;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.install-button:hover {
+    background-color: #45a049;
+}
+</style>
